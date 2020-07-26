@@ -6,3 +6,5 @@ You can use your Google Analytics with this AMP template. Just change Google Ana
 Related post were added.
 
 For a demo, visit = https://androidwedakarayo.com/android-11-named-as-red-velvet-cake/amp
+
+To install this template, just copy amp.hbs file into your Ghost root folder and enable AMP.
